@@ -1,0 +1,5687 @@
+[
+ {
+  "title": "GOVERNOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BECERRA, XAVIER",
+    "party": "DEM",
+    "designation": "Voting Rights Attorney",
+    "qualified": true
+   },
+   {
+    "name": "HILTON, STEVE",
+    "party": "REP",
+    "designation": "Small Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LIEUTENANT GOVERNOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MA, FIONA",
+    "party": "DEM",
+    "designation": "State Treasurer/CPA",
+    "qualified": true
+   },
+   {
+    "name": "ROMERO, GLORIA",
+    "party": "REP",
+    "designation": "Educator/Businesswoman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SECRETARY OF STATE",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WAGNER, DONALD P. (DON)",
+    "party": "REP",
+    "designation": "Orange County Supervisor",
+    "qualified": true
+   },
+   {
+    "name": "WEBER, SHIRLEY N.",
+    "party": "DEM",
+    "designation": "California Secretary of State",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CONTROLLER",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COHEN, MALIA M.",
+    "party": "DEM",
+    "designation": "State Controller/Mother",
+    "qualified": true
+   },
+   {
+    "name": "MORGAN, HERB W",
+    "party": "REP",
+    "designation": "Chief Investment Officer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "TREASURER",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HAWKS, JENNIFER",
+    "party": "REP",
+    "designation": "Retired Business Executive",
+    "qualified": true
+   },
+   {
+    "name": "KOUNALAKIS, ELENI",
+    "party": "DEM",
+    "designation": "Lieutenant Governor of California",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ATTORNEY GENERAL",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BONTA, ROB",
+    "party": "DEM",
+    "designation": "California Attorney General",
+    "qualified": true
+   },
+   {
+    "name": "GATES, MICHAEL E.",
+    "party": "REP",
+    "designation": "Deputy United States Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "INSURANCE COMMISSIONER",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALLEN, BEN",
+    "party": "DEM",
+    "designation": "California State Senator",
+    "qualified": true
+   },
+   {
+    "name": "KIM, JANE",
+    "party": "DEM",
+    "designation": "Attorney/Consumer Advocate",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE BOARD EQUALIZATION - 4TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BILODEAU, DENIS",
+    "party": "REP",
+    "designation": "Councilmember/Civil Engineer",
+    "qualified": true
+   },
+   {
+    "name": "UMBERG, TOM",
+    "party": "DEM",
+    "designation": "Small Businessman/Senator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "U.S. REPRESENTATIVE - 48TH CONG. DIST",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DESMOND, JIM",
+    "party": "REP",
+    "designation": "San Diego County Supervisor",
+    "qualified": true
+   },
+   {
+    "name": "VON WILPERT, MARNI",
+    "party": "DEM",
+    "designation": "Councilwoman/Health Advocate",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "U.S. REPRESENTATIVE - 49TH CONG. DIST",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KURDIAN, ARMEN",
+    "party": "REP",
+    "designation": "Retired Navy Captain",
+    "qualified": true
+   },
+   {
+    "name": "LEVIN, MIKE",
+    "party": "DEM",
+    "designation": "U.S. Representative, 49th District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "U.S. REPRESENTATIVE - 50TH CONG. DIST",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COHEN, STEVE",
+    "party": "REP",
+    "designation": "Television News Consultant",
+    "qualified": true
+   },
+   {
+    "name": "PETERS, SCOTT",
+    "party": "DEM",
+    "designation": "Member of Congress",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "U.S. REPRESENTATIVE - 51ST CONG. DIST",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CABRERA, RICARDO",
+    "party": "REP",
+    "designation": "Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "JACOBS, SARA",
+    "party": "DEM",
+    "designation": "U.S. Representative",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "U.S. REPRESENTATIVE - 52ND CONG. DIST",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BELLE, JEFF",
+    "party": "REP",
+    "designation": "Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "VARGAS, JUAN",
+    "party": "DEM",
+    "designation": "Member of Congress",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE SENATE - 18TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HODGES, ART",
+    "party": "REP",
+    "designation": "CEO/Educator/Pastor",
+    "qualified": true
+   },
+   {
+    "name": "PADILLA, STEVE",
+    "party": "DEM",
+    "designation": "California State Senator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE SENATE - 32ND DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SEYARTO, KELLY",
+    "party": "REP",
+    "designation": "State Senator",
+    "qualified": true
+   },
+   {
+    "name": "TATE, TIFFANIE",
+    "party": "DEM",
+    "designation": "Doctor/Educator/Author",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE SENATE - 38TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BASSETT, LAURA",
+    "party": "REP",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "BLAKESPEAR, CATHERINE S.",
+    "party": "DEM",
+    "designation": "California State Senator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE SENATE - 40TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BRUCE-LANE, KRISTIE",
+    "party": "REP",
+    "designation": "Businesswoman/Victims Advocate",
+    "qualified": true
+   },
+   {
+    "name": "ELLIOTT, MARA",
+    "party": "DEM",
+    "designation": "Ethics Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 74TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAVIES, LAURIE",
+    "party": "REP",
+    "designation": "Assemblywoman/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "FARIAS, SERGIO",
+    "party": "DEM",
+    "designation": "City Councilmember/Businessman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 75TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BOURSIQUOT, GERALD C.",
+    "party": "DEM",
+    "designation": "IT Contractor/Father",
+    "qualified": true
+   },
+   {
+    "name": "DEMAIO, CARL",
+    "party": "REP",
+    "designation": "Businessman/State Legislator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 76TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ESPINOZA VILLANUEVA, CARRIE S.",
+    "party": "REP",
+    "designation": "College Administration Support",
+    "qualified": true
+   },
+   {
+    "name": "PATEL, DARSHANA",
+    "party": "DEM",
+    "designation": "California State Assemblymember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 77TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BOERNER, TASHA",
+    "party": "DEM",
+    "designation": "California State Assemblymember",
+    "qualified": true
+   },
+   {
+    "name": "HANNAWAY, TRINITY",
+    "party": "REP",
+    "designation": "Taxpayer Advocate",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 78TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GALVEZ, PAYTON",
+    "party": "REP",
+    "designation": "Constituent Services Manager",
+    "qualified": true
+   },
+   {
+    "name": "WARD, CHRIS",
+    "party": "DEM",
+    "designation": "Member of the State Assembly, 78th District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 79TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LAWSON, ANDREW",
+    "party": "REP",
+    "designation": "Spring Valley Community Planning Group Member",
+    "qualified": true
+   },
+   {
+    "name": "SHARP-COLLINS, LASHAE",
+    "party": "DEM",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE ASSEMBLY - 80TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALVAREZ, DAVID A.",
+    "party": "DEM",
+    "designation": "Assemblymember",
+    "qualified": true
+   },
+   {
+    "name": "GALICIA, ALEJANDRO",
+    "party": "REP",
+    "designation": "Business Owner/Commissioner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "STATE SUPERINTENDENT - PUBLIC INSTRUCTION",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BARRERA, RICHARD",
+    "party": "",
+    "designation": "State Superintendent Advisor",
+    "qualified": true
+   },
+   {
+    "name": "SHAW, SONJA",
+    "party": "",
+    "designation": "School District President",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "COUNTY BOARD OF ED - 3RD DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BROWN, CORY",
+    "party": "",
+    "designation": "Parent/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "MUNOZ, ALICIA",
+    "party": "",
+    "designation": "Governing Board Member, San Diego County Board of Education",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "COUNTY BOARD OF ED - 5TH DISTRICT",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "RAGONESI-LASCHE, BIANCA",
+    "party": "",
+    "designation": "Retired Accountant",
+    "qualified": true
+   },
+   {
+    "name": "SHEA, RICK",
+    "party": "",
+    "designation": "Governing Board Member, SD County Board of Education",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "GROSSMNT-CUY COM COLLEGE - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CRIBBS, ROSANGELA",
+    "party": "",
+    "designation": "Homemaker",
+    "qualified": true
+   },
+   {
+    "name": "GWIN, MARY",
+    "party": "",
+    "designation": "Community College Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MIRACOSTA COMM COLLEGE - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PEDROZA, ANNA",
+    "party": "",
+    "designation": "MiraCosta Community College Governing Board Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MIRACOSTA COMM COLLEGE - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CASSAR, RICK",
+    "party": "",
+    "designation": "MiraCosta Community College Governing Board Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MIRACOSTA COMM COLLEGE - TRUSTEE AREA NO. 6",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ASZTERBAUM, JOEY",
+    "party": "",
+    "designation": "Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MIRACOSTA COMM COLLEGE - TRUSTEE AREA NO. 7",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CONKLIN, HEATHER",
+    "party": "",
+    "designation": "Governing Board Member, MiraCosta Community College District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PALOMAR COMM COLLEGE - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PATACSIL, JUDY",
+    "party": "",
+    "designation": "Governing Board Member, Palomar Community College",
+    "qualified": true
+   },
+   {
+    "name": "WILEY, ANTHONY",
+    "party": "",
+    "designation": "Parent/Retired Engineer",
+    "qualified": true
+   },
+   {
+    "name": "XU, FRANK",
+    "party": "",
+    "designation": "Parent/Non-profit Executive",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PALOMAR COMM COLLEGE - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ANDERSON, CORY",
+    "party": "",
+    "designation": "Marriage Family Therapist",
+    "qualified": true
+   },
+   {
+    "name": "JEFFRIES, JENNIFER",
+    "party": "",
+    "designation": "Retired College Professor",
+    "qualified": true
+   },
+   {
+    "name": "MOORE, MICHELLE C.",
+    "party": "",
+    "designation": "College Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGO COMM COLLEGE - DISTRICT A",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BROWN, JONNY",
+    "party": "",
+    "designation": "Student Advocate/Writer",
+    "qualified": true
+   },
+   {
+    "name": "SENOUR, MARIA NIETO",
+    "party": "",
+    "designation": "Governing Board Member, San Diego Community College District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGO COMM COLLEGE - DISTRICT C",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ELY, SAMANTHA",
+    "party": "",
+    "designation": "Appointed Program Manager",
+    "qualified": true
+   },
+   {
+    "name": "MILGRIM, CRAIG",
+    "party": "",
+    "designation": "Governing Board Member, San Diego Community College District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTHWESTERN COMM COLLEGE - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MORENO, ROBERT",
+    "party": "",
+    "designation": "Southwestern College Governing Board Member",
+    "qualified": true
+   },
+   {
+    "name": "SALAS, MARY",
+    "party": "",
+    "designation": "Retired Mayor Chula Vista",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTHWESTERN COMM COLLEGE - TRUSTEE AREA 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ANDERSEN, TREVOR",
+    "party": "",
+    "designation": "Father/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "CUELLAR-MARTINEZ, AIMEE",
+    "party": "",
+    "designation": "Assistant Principal",
+    "qualified": true
+   },
+   {
+    "name": "ELLIS-VIZCARRA, SELENA",
+    "party": "",
+    "designation": "Nonprofit Executive/COO",
+    "qualified": true
+   },
+   {
+    "name": "SOTO, CORINA",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTHWESTERN COMM COLLEGE - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DUMAS, DON",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BONSALL UNIFIED SCHOOL - TRUSTEE AREA A",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DOMBROWSKI, RACHAEL",
+    "party": "",
+    "designation": "BUSD Trustee/Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BONSALL UNIFIED SCHOOL - TRUSTEE AREA B",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GADDIS, MICHAEL",
+    "party": "",
+    "designation": "Trustee, Bonsall Unified School District",
+    "qualified": true
+   },
+   {
+    "name": "WILKE, EMILY",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BONSALL UNIFIED SCHOOL - TRUSTEE AREA D",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MERCHAT, ROGER",
+    "party": "",
+    "designation": "Board Member/Engineer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BORREGO SPRINGS UNIFIED SCHOOL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LOPEZ GARCIA, ESMERALDA",
+    "party": "",
+    "designation": "Administrative Professional",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CARLSBAD UNIFIED SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTINEZ, AMBER",
+    "party": "",
+    "designation": "Real Estate Agent",
+    "qualified": true
+   },
+   {
+    "name": "TSUTAGAWA WARD, MICHELE",
+    "party": "",
+    "designation": "Governing Board Member, Carlsbad Unified School District Board of Trustees",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CARLSBAD UNIFIED SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PERRAULT, TRACEY",
+    "party": "",
+    "designation": "Associate Principal/Teacher",
+    "qualified": true
+   },
+   {
+    "name": "PUHEK, JOHN",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "VURBEFF, GRETCHEN",
+    "party": "",
+    "designation": "Board Trustee/Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CARLSBAD UNIFIED SCHOOL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GUTIERREZ, JOEL",
+    "party": "",
+    "designation": "Airline Pilot/Parent",
+    "qualified": true
+   },
+   {
+    "name": "WAIDELICH, CHRIS",
+    "party": "",
+    "designation": "Parent/Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CORONADO UNIFIED SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DUNCAN, PEGGY",
+    "party": "",
+    "designation": "Attorney/Nonprofit President",
+    "qualified": true
+   },
+   {
+    "name": "PALACIOS-PETERS, ALEXIA",
+    "party": "",
+    "designation": "Governing Board Member, Coronado Unified School District",
+    "qualified": true
+   },
+   {
+    "name": "RIEBE, ELIZABETH",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "SANDIE, MAL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "SCHNEIDER, KAYE",
+    "party": "",
+    "designation": "Family Life Coach",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MOUNTAIN EMPIRE UNIFIED - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KETCHUM, EDWARD A.",
+    "party": "",
+    "designation": "California First Responder",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MOUNTAIN EMPIRE UNIFIED - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LAFF, AARON",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MOUNTAIN EMPIRE UNIFIED - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CARMONA, ALFONSO",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "HEIMERDINGER, TINA",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OCEANSIDE UNIFIED SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "AVILA, JERRY GARCIA",
+    "party": "",
+    "designation": "Retired Lieutenant Commander",
+    "qualified": true
+   },
+   {
+    "name": "LICONA, NANCY",
+    "party": "",
+    "designation": "School Counselor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OCEANSIDE UNIFIED SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PEARSON, JOEY",
+    "party": "",
+    "designation": "Professional Learning Director",
+    "qualified": true
+   },
+   {
+    "name": "WATSON, NICOLE",
+    "party": "",
+    "designation": "Businesswoman/Mother",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OCEANSIDE UNIFIED SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALVAREZ, RAQUEL RIOJAS",
+    "party": "",
+    "designation": "Governing Board Member, Oceanside Unified School District",
+    "qualified": true
+   },
+   {
+    "name": "BETHURUM, JASON",
+    "party": "",
+    "designation": "Teacher/Father",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "POWAY UNIFIED SCHOOL - TRUSTEE AREA B",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAVIS, BRETT",
+    "party": "",
+    "designation": "Father/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "SOSNOWSKI, KYM",
+    "party": "",
+    "designation": "Education Advocate/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "POWAY UNIFIED SCHOOL - TRUSTEE AREA C",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BENNETT, JASON",
+    "party": "",
+    "designation": "Parent/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "PLOTZKE, HEATHER",
+    "party": "",
+    "designation": "Governing Board Member, Poway Unified School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "POWAY UNIFIED SCHOOL - TRUSTEE AREA D",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DARLING, DANIELA",
+    "party": "",
+    "designation": "Parent/Children Therapist",
+    "qualified": true
+   },
+   {
+    "name": "O'CONNOR-RATCLIFF, MICHELLE",
+    "party": "",
+    "designation": "Governing Board Member, Poway Unified School District",
+    "qualified": true
+   },
+   {
+    "name": "RAMIREZ, JENNIFER DAHLQUIST",
+    "party": "",
+    "designation": "Educational Consultant",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAMONA UNIFIED SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PHILLIPS, MAYA",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "ZAMORA, SHELZEA",
+    "party": "",
+    "designation": "Parent/Non-Profit Manager",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAMONA UNIFIED SCHOOL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ADELSON, WILLIAM S.",
+    "party": "",
+    "designation": "Architect",
+    "qualified": true
+   },
+   {
+    "name": "KETCHEM-GRACE, THERESA",
+    "party": "",
+    "designation": "Retired RUSD Administrator",
+    "qualified": true
+   },
+   {
+    "name": "SUMMERS, DAN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAMONA UNIFIED SCHOOL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BILLICK, JERI",
+    "party": "",
+    "designation": "Retired Educator",
+    "qualified": true
+   },
+   {
+    "name": "BIRRENKOTT, JARED",
+    "party": "",
+    "designation": "Deputy/Parent",
+    "qualified": true
+   },
+   {
+    "name": "DOHM, RODGER",
+    "party": "",
+    "designation": "Governing Board Member, Ramona Unified School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGO UNIFIED SCHOOL - DISTRICT B",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HAZAN, SHANA",
+    "party": "",
+    "designation": "Board Member, San Diego Unified School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGO UNIFIED SCHOOL - DISTRICT C",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GORE, HAYDEN",
+    "party": "",
+    "designation": "Classroom Teacher/Father",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN MARCOS UNIFIED - TRUSTEE AREA C",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTIN, ANDRES RAMOS",
+    "party": "",
+    "designation": "Board Member/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN MARCOS UNIFIED - TRUSTEE AREA E",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BAKER, CHRISTINE",
+    "party": "",
+    "designation": "Parent/Certified Appraiser",
+    "qualified": true
+   },
+   {
+    "name": "DAVIS, DERRICK",
+    "party": "",
+    "designation": "Parent/Security Executive",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER-PAUMA UNIF SCHL - TRUSTEE AREA 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KOLB SR, ALFONSO",
+    "party": "",
+    "designation": "Rincon Tribal Councilman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER-PAUMA UNIF SCHL - TRUSTEE AREA 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "STROH, JULIE",
+    "party": "",
+    "designation": "Governing Board Member, Valley Center Pauma Unified School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER-PAUMA UNIF SCHL - TRUSTEE AREA 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CAPUTTO, MICHAEL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "NORDSTROM, LISA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA UNIFIED SCHOOL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARROCCO, RENA",
+    "party": "",
+    "designation": "Governing Board Member, Vista Unified School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA UNIFIED SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALVARADO, MARTHA",
+    "party": "",
+    "designation": "Teacher/Board Member",
+    "qualified": true
+   },
+   {
+    "name": "MOFFAT, JON",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "WARNER UNIFIED SCHOOL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ROMBAL, JEANNEAN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION HIGH SCHL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HAINES, NINA",
+    "party": "",
+    "designation": "Businessowner",
+    "qualified": true
+   },
+   {
+    "name": "WELLER, BOB",
+    "party": "",
+    "designation": "Governing Board Member, Escondido Union High School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION HIGH SCHL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CERVANTES, RAFAELA",
+    "party": "",
+    "designation": "College Professor",
+    "qualified": true
+   },
+   {
+    "name": "HINRICHS, JOE",
+    "party": "",
+    "designation": "Public School Teacher",
+    "qualified": true
+   },
+   {
+    "name": "LUCAS, MARK",
+    "party": "",
+    "designation": "Teacher/College Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION HIGH SCHL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "TOMASI, GEORGINE",
+    "party": "",
+    "designation": "Retired Teacher",
+    "qualified": true
+   },
+   {
+    "name": "VINCENT, DAVID",
+    "party": "",
+    "designation": "Governing Board Member, Escondido Union High School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION HIGH SCHL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "NIJST, STACEY MAX",
+    "party": "",
+    "designation": "Entrepreneur/Grandfather",
+    "qualified": true
+   },
+   {
+    "name": "RODARTE, TAUNA",
+    "party": "",
+    "designation": "Trustee, Fallbrook Union High School District Board",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION HIGH SCHL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CHRISTENSEN, PAUL",
+    "party": "",
+    "designation": "Fire Captain",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION HIGH SCHL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DANIEL, TRACY",
+    "party": "",
+    "designation": "Certified Public Accountant",
+    "qualified": true
+   },
+   {
+    "name": "WEISBERGER, KAREN",
+    "party": "",
+    "designation": "Special Education Paraprofessional",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "GROSSMONT UNION HIGH SCHL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LITTRELL, JENEE",
+    "party": "",
+    "designation": "Public School Counselor",
+    "qualified": true
+   },
+   {
+    "name": "WOODS, GARY",
+    "party": "",
+    "designation": "Governing Board Member, Grossmont Union High School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "GROSSMONT UNION HIGH SCHL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MERINO, JIMMY",
+    "party": "",
+    "designation": "Public Adjuster/Coach",
+    "qualified": true
+   },
+   {
+    "name": "MULL, STEVE",
+    "party": "",
+    "designation": "Public School Teacher",
+    "qualified": true
+   },
+   {
+    "name": "SHIELD, ROBERT",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "THOMAS, GINA",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   }
+  ]
+ },
+ {
+  "title": "GROSSMONT UNION HIGH SCHL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KELLY, JIM",
+    "party": "",
+    "designation": "Governing Board Member, Grossmont Union High School District",
+    "qualified": true
+   },
+   {
+    "name": "MERGENS, PETE",
+    "party": "",
+    "designation": "Public School Teacher",
+    "qualified": true
+   },
+   {
+    "name": "WILBUR, BRIAN",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   }
+  ]
+ },
+ {
+  "title": "JULIAN UNION HIGH SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CHANDLER, NORI",
+    "party": "",
+    "designation": "Retired Educator",
+    "qualified": true
+   },
+   {
+    "name": "FENDER, BRANDON",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MORETTI, KATY",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGUITO UNION HIGH SCHL - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FLICKER, AMY",
+    "party": "",
+    "designation": "Nonprofit Board Member",
+    "qualified": true
+   },
+   {
+    "name": "MIYASHIRO, DAVID",
+    "party": "",
+    "designation": "Public School Superintendent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGUITO UNION HIGH SCHL - TRUSTEE AREA 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BOGER, SUMMER",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "DOYLE, HELEN",
+    "party": "",
+    "designation": "Community Volunteer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGUITO UNION HIGH SCHL - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MERRIFIELD, GINNY",
+    "party": "",
+    "designation": "Charter School President",
+    "qualified": true
+   },
+   {
+    "name": "MOODIE, JUSTIN",
+    "party": "",
+    "designation": "Public School Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SWEETWATER UNION HIGH SCHL - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BETANCOURT-CASTANEDA, MARIA",
+    "party": "",
+    "designation": "Governing Board Trustee, National School District",
+    "qualified": true
+   },
+   {
+    "name": "JIMENEZ, FERMIN EUSEBIO",
+    "party": "",
+    "designation": "Substitute Teacher/Paralegal",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SWEETWATER UNION HIGH SCHL - TRUSTEE AREA 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LOPEZ-ZEPEDA, ELVA",
+    "party": "",
+    "designation": "Retired Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SWEETWATER UNION HIGH SCHL - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "EMERALD, MARTI",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ALPINE UNION SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COSSIO, DARLENE",
+    "party": "",
+    "designation": "Parent/CPG Member",
+    "qualified": true
+   },
+   {
+    "name": "DICKIE, GLENN",
+    "party": "",
+    "designation": "Governing Board Member, Alpine Union School District",
+    "qualified": true
+   },
+   {
+    "name": "GUERRA, AL",
+    "party": "",
+    "designation": "Alpine Union School District Trustee",
+    "qualified": true
+   },
+   {
+    "name": "MAY, ANGELA",
+    "party": "",
+    "designation": "Entrepreneur/Instructor/Rancher",
+    "qualified": true
+   },
+   {
+    "name": "WRAY, ERIC",
+    "party": "",
+    "designation": "Governing Board Member, Alpine Union School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CAJON VALLEY UNION SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALVAREZ, PATTI",
+    "party": "",
+    "designation": "Special Education Teacher",
+    "qualified": true
+   },
+   {
+    "name": "CARNEVALE, ANTHONY",
+    "party": "",
+    "designation": "Cajon Valley Governing Board Member",
+    "qualified": true
+   },
+   {
+    "name": "KEENAN, MICHAEL",
+    "party": "",
+    "designation": "Educator/Homemaker",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CAJON VALLEY UNION SCHOOL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COVELL, DANA",
+    "party": "",
+    "designation": "Business Owner/Mother",
+    "qualified": true
+   },
+   {
+    "name": "JIRJEES, JOLYANA",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CAJON VALLEY UNION SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALCALA, MARBRIZA",
+    "party": "",
+    "designation": "Parent Volunteer",
+    "qualified": true
+   },
+   {
+    "name": "ALEGRIA, JO",
+    "party": "",
+    "designation": "Business Owner/Director",
+    "qualified": true
+   },
+   {
+    "name": "BUCY, MICHAEL WILLIAM",
+    "party": "",
+    "designation": "Father/ Care Provider",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CARDIFF SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DIBONO, MISHA",
+    "party": "",
+    "designation": "Mother/Journalist/Consultant",
+    "qualified": true
+   },
+   {
+    "name": "SWAMINATHAN, ASH",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "THIELMAN, SHAD",
+    "party": "",
+    "designation": "Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CHULA VISTA ELEM SCHOOL - SEAT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BALVANEDA, JORGE",
+    "party": "",
+    "designation": "Operations Manager/Parent",
+    "qualified": true
+   },
+   {
+    "name": "CASTILLO TOLSTON, JESSICA",
+    "party": "",
+    "designation": "Appointed Governing Board Member Chula Vista Elementary School District",
+    "qualified": true
+   },
+   {
+    "name": "MCLAREN, DEBRA",
+    "party": "",
+    "designation": "Educator/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CHULA VISTA ELEM SCHOOL - SEAT NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GONZALEZ-RONDEAU, KATINA",
+    "party": "",
+    "designation": "Teacher/Student Advocate",
+    "qualified": true
+   },
+   {
+    "name": "SEGURA, LETICIA",
+    "party": "",
+    "designation": "Retired Educator/Parent",
+    "qualified": true
+   },
+   {
+    "name": "TOOTHMAN, NORMA LOZOYA",
+    "party": "",
+    "designation": "Parent/Nonprofit Director",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CHULA VISTA ELEM SCHOOL - SEAT NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DOMINGUEZ CERVANTES, DELIA",
+    "party": "",
+    "designation": "Governing Board Member, Chula Vista Elementary School District",
+    "qualified": true
+   },
+   {
+    "name": "GLOVER, TOM",
+    "party": "",
+    "designation": "Retired Educator",
+    "qualified": true
+   },
+   {
+    "name": "GOMEZ, JANETTE",
+    "party": "",
+    "designation": "Teacher/Parent",
+    "qualified": true
+   },
+   {
+    "name": "GONZALEZ, JAQUELINE",
+    "party": "",
+    "designation": "Parent/Substitute Teacher",
+    "qualified": true
+   },
+   {
+    "name": "JONES, DEVONE L.",
+    "party": "",
+    "designation": "Education Facilitator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "DEHESA SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HEALY, PAUL",
+    "party": "",
+    "designation": "Museum Manager",
+    "qualified": true
+   },
+   {
+    "name": "PHAM, CHRISTOPHER",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "WHITE, CYNTHIA",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "WHITE, DUSTIN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "DEL MAR UNION SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COCHRANE, STEPHEN",
+    "party": "",
+    "designation": "Education Law Attorney",
+    "qualified": true
+   },
+   {
+    "name": "FITZPATRICK, KATHERINE C.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "KHOLOS, ALAN SCOTT",
+    "party": "",
+    "designation": "Governing Board Member, Del Mar Union School District",
+    "qualified": true
+   },
+   {
+    "name": "RAFNER, DOUGLAS",
+    "party": "",
+    "designation": "Governing Board Member, Del Mar Union School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ENCINITAS UNION SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CLARK, MICHELLE",
+    "party": "",
+    "designation": "Mother",
+    "qualified": true
+   },
+   {
+    "name": "COCAYNE, JILLIAN",
+    "party": "",
+    "designation": "Parent/Policy Advisor",
+    "qualified": true
+   },
+   {
+    "name": "DIXON, MARIKA",
+    "party": "",
+    "designation": "Elementary Aide/Parent",
+    "qualified": true
+   },
+   {
+    "name": "HARGRAVE, CHRIS",
+    "party": "",
+    "designation": "Teacher/Principal/Grandparent",
+    "qualified": true
+   },
+   {
+    "name": "SANCHEZ, JORGE",
+    "party": "",
+    "designation": "Parent/Firefighter/Educator",
+    "qualified": true
+   },
+   {
+    "name": "SHEN, BILL",
+    "party": "",
+    "designation": "Business Owner/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION SCHOOL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "RANGLAS, CHRIS",
+    "party": "",
+    "designation": "University Project Manager",
+    "qualified": true
+   },
+   {
+    "name": "SHULOK, ELIZABETH",
+    "party": "",
+    "designation": "Parent/Education Advocate",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CASCIO, MAGGIE",
+    "party": "",
+    "designation": "School Volunteer",
+    "qualified": true
+   },
+   {
+    "name": "HARPER, ZESTY",
+    "party": "",
+    "designation": "Governing Board Member, Escondido Union School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ESCONDIDO UNION SCHOOL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HUSTON, FRANK",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "WAGNER, BONNIE",
+    "party": "",
+    "designation": "Educator/Project Manager",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION ELEM SCHOOL - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GOLBECK, FRANK",
+    "party": "",
+    "designation": "Trustee/Entrepreneur/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION ELEM SCHOOL - TRUSTEE AREA 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CANSECO, ANABEL L.",
+    "party": "",
+    "designation": "Parent/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "MORAN, MARIA G.",
+    "party": "",
+    "designation": "Governing Board Member, Fallbrook Union Elementary School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK UNION ELEM SCHOOL - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MCBRIDE, MARY",
+    "party": "",
+    "designation": "Governing Board Member, Fallbrook Union Elementary School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JAMUL-DULZURA UNION SCHOOL - TRUSTEE AREA 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DUBBELDAY, WADAD BROOK",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JAMUL-DULZURA UNION SCHOOL - TRUSTEE AREA 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ROMERO-MENDIVIL, ARIEL",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JULIAN UNION SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COSSON, STACY",
+    "party": "",
+    "designation": "Resource Coordinator",
+    "qualified": true
+   },
+   {
+    "name": "EGGERT, JENIFER",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MARTIN, JEFF",
+    "party": "",
+    "designation": "Intellectual Property Administrator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LA MESA-SPRING VALLEY SCHOOL - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "REED, SARAH",
+    "party": "",
+    "designation": "Teacher/Board Member",
+    "qualified": true
+   },
+   {
+    "name": "TWEEDLE, REBECCA",
+    "party": "",
+    "designation": "Operations Manager/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LA MESA-SPRING VALLEY SCHOOL - TRUSTEE AREA 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LITTIG, JENNIFER",
+    "party": "",
+    "designation": "Public School Teacher",
+    "qualified": true
+   },
+   {
+    "name": "MCRAE, REBECCA",
+    "party": "",
+    "designation": "Board Member/Teacher",
+    "qualified": true
+   },
+   {
+    "name": "MOODY, MYRIAM S.",
+    "party": "",
+    "designation": "Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LA MESA-SPRING VALLEY SCHOOL - TRUSTEE AREA 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COSTON, BRIANNA E",
+    "party": "",
+    "designation": "School Board Member",
+    "qualified": true
+   },
+   {
+    "name": "FEELEY, SARAH",
+    "party": "",
+    "designation": "Parent/Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE UNION SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HAYES, ANDREW",
+    "party": "",
+    "designation": "Governing Board Member, Lakeside Union School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE UNION SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BENNETT, JIM",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE UNION SCHOOL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KASPER, RON",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LEMON GROVE SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "AYALA, JAVIER",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "SMITH, JASMIN",
+    "party": "",
+    "designation": "Lemon Grove School District Governing Board Trustee",
+    "qualified": true
+   },
+   {
+    "name": "TORTORIELLO, SARINA",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "GASTELUM, CHELSEA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "NATIONAL SCHOOL - TRUSTEE AREA B",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CORONADO, JOANNA",
+    "party": "",
+    "designation": "Pharmacy Technician/Mother",
+    "qualified": true
+   },
+   {
+    "name": "SARMIENTO, ALMA",
+    "party": "",
+    "designation": "Governing Board Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "NATIONAL SCHOOL - TRUSTEE AREA C",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "AVALOS, BARBARA A.",
+    "party": "",
+    "designation": "Retired Counselor",
+    "qualified": true
+   },
+   {
+    "name": "SOLIS, ARTURO",
+    "party": "",
+    "designation": "High School Trustee",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "NATIONAL SCHOOL - TRUSTEE AREA E",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MIRANDA, MARIA",
+    "party": "",
+    "designation": "Childcare Provider",
+    "qualified": true
+   },
+   {
+    "name": "VANN, DELISE",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "VARGAS, RANDY",
+    "party": "",
+    "designation": "Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RANCHO SANTA FE SCHOOL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KHAN, JARED",
+    "party": "",
+    "designation": "Father/Technology Executive",
+    "qualified": true
+   },
+   {
+    "name": "MANGHANI, JEE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "RUGGERI, BOW",
+    "party": "",
+    "designation": "Technology Executive",
+    "qualified": true
+   },
+   {
+    "name": "SEITZ, PAUL K",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN PASQUAL UNION SCHOOL - TRUSTEE AREA NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ZUMWALT, TIFFANI",
+    "party": "",
+    "designation": "Occupational Therapist/Mother",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN PASQUAL UNION SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MURRAY, LAURISA",
+    "party": "",
+    "designation": "Educator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN PASQUAL UNION SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MACHADO, RAPHAEL",
+    "party": "",
+    "designation": "Instructor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN YSIDRO SCHOOL",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ARIAS, MARTIN",
+    "party": "",
+    "designation": "Appointed Governing Board Member, San Ysidro School District",
+    "qualified": true
+   },
+   {
+    "name": "DIRCIO, JOSE MANUEL",
+    "party": "",
+    "designation": "Mechanical Engineer",
+    "qualified": true
+   },
+   {
+    "name": "ESPINOZA, OLGA LYDIA",
+    "party": "",
+    "designation": "Mother/Education Advocate",
+    "qualified": true
+   },
+   {
+    "name": "FUENTES HERNANDEZ, CRISTIAN",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "LOPEZ, IRENE",
+    "party": "",
+    "designation": "San Ysidro School District Board Member",
+    "qualified": true
+   },
+   {
+    "name": "MORALES, LIDYA",
+    "party": "",
+    "designation": "Parent/Banquet Server",
+    "qualified": true
+   },
+   {
+    "name": "OLEA, YVETTE",
+    "party": "",
+    "designation": "Retired CSEA Employee",
+    "qualified": true
+   },
+   {
+    "name": "PALESTINO, ROXANE",
+    "party": "",
+    "designation": "Parent Community Advocate",
+    "qualified": true
+   },
+   {
+    "name": "PLASCENCIA, BRANDON J",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "ROSARIO, ZENAIDA",
+    "party": "",
+    "designation": "Governing Board Member San Ysidro School District",
+    "qualified": true
+   },
+   {
+    "name": "YRINEO, MONICA",
+    "party": "",
+    "designation": "Retired School Employee",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTEE SCHOOL - SEAT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KENDALL, MISTY",
+    "party": "",
+    "designation": "Legal Assistant",
+    "qualified": true
+   },
+   {
+    "name": "PETERSON, FRANK",
+    "party": "",
+    "designation": "Engineering Manager",
+    "qualified": true
+   },
+   {
+    "name": "PETRETTA, CINDY",
+    "party": "",
+    "designation": "Child Supervision Director",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTEE SCHOOL - SEAT NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BURNS, DUSTIN",
+    "party": "",
+    "designation": "Governing Board Member, Santee School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTEE SCHOOL - SEAT NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DOBESH, STEVEN L",
+    "party": "",
+    "designation": "Entrepreneur/Parent",
+    "qualified": true
+   },
+   {
+    "name": "MCKELL, MATTHEW C.",
+    "party": "",
+    "designation": "Federal Employee/Parent",
+    "qualified": true
+   },
+   {
+    "name": "SINHA, UDAY",
+    "party": "",
+    "designation": "Software Engineer/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOLANA BEACH SCHOOL - TRUSTEE AREA NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SCHADE, DEBRA H.",
+    "party": "",
+    "designation": "Governing Board Member, Solana Beach School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOLANA BEACH SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SUEL, KATIE",
+    "party": "",
+    "designation": "Governing Board Member, Solana Beach School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOLANA BEACH SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALLBAUGH, GAYLIN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "RICHARD, JOMI L",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTH BAY UNION SCHOOL - TRUSTEE AREA 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LEIKER, KELLY",
+    "party": "",
+    "designation": "Board Member/Parent",
+    "qualified": true
+   },
+   {
+    "name": "LOWERY, ERIKA",
+    "party": "",
+    "designation": "Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTH BAY UNION SCHOOL - TRUSTEE AREA 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GONZALEZ, BRENDA",
+    "party": "",
+    "designation": "Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SPENCER VALLEY SCHOOL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HERNANDEZ, ANDREW",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLECITOS SCHOOL - TRUSTEE AREA NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KURLAND, MARTIN",
+    "party": "",
+    "designation": "Retired Radiologist",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLECITOS SCHOOL - TRUSTEE AREA NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DARNLEY, MICHAEL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "WHEELER, CHERI",
+    "party": "",
+    "designation": "Retired Business Manager",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLECITOS SCHOOL - TRUSTEE AREA NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CHANTHABANDITH, RITSA",
+    "party": "",
+    "designation": "Appointed Board Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BOARD OF SUPERVISORS - DISTRICT NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALESSIO, KRISTINE C.",
+    "party": "",
+    "designation": "Attorney",
+    "qualified": true
+   },
+   {
+    "name": "MONTGOMERY STEPPE, MONICA",
+    "party": "",
+    "designation": "San Diego County Supervisor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BOARD OF SUPERVISORS - DISTRICT NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "JONES, REBECCA",
+    "party": "",
+    "designation": "San Marcos Mayor/Businesswoman",
+    "qualified": true
+   },
+   {
+    "name": "KRAHEL, KYLE",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ASSESSOR/RECORDER/COUNTY CLERK",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARKS, JORDAN Z.",
+    "party": "",
+    "designation": "Assessor/Recorder/County Clerk",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "TREASURER/TAX COLLECTOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COHEN, LARRY",
+    "party": "",
+    "designation": "Appointed Treasurer Tax Collector San Diego County",
+    "qualified": true
+   },
+   {
+    "name": "NAKAWATASE, SHIRLEY",
+    "party": "",
+    "designation": "Businesswoman/Treasurer/CPA",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CARLSBAD - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ARSENAULT, BILL",
+    "party": "",
+    "designation": "Retired Businessman",
+    "qualified": true
+   },
+   {
+    "name": "BANISTER, STEPHEN",
+    "party": "",
+    "designation": "Energy Program Supervisor",
+    "qualified": true
+   },
+   {
+    "name": "BLACKBURN, KEITH",
+    "party": "",
+    "designation": "Mayor, City of Carlsbad",
+    "qualified": true
+   },
+   {
+    "name": "NIXON, ERIC",
+    "party": "",
+    "designation": "Emergency Medical Technician",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CARLSBAD - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BURKHOLDER, MELANIE",
+    "party": "",
+    "designation": "Council Member/Therapist",
+    "qualified": true
+   },
+   {
+    "name": "LARSON, NATE",
+    "party": "",
+    "designation": "Artist/Father",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CARLSBAD - CITY COUNCIL-DISTRICT NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BHAT-PATEL, PRIYA",
+    "party": "",
+    "designation": "Council Member, City of Carlsbad",
+    "qualified": true
+   },
+   {
+    "name": "LIM, WAYLAND T.",
+    "party": "",
+    "designation": "Retired Business Consultant",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CARLSBAD - CITY CLERK",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FREISINGER, SHERRY A.",
+    "party": "",
+    "designation": "City Clerk, City of Carlsbad",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CARLSBAD - TREASURER",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KROUSE, THOMAS E.",
+    "party": "",
+    "designation": "Investment Company CEO",
+    "qualified": true
+   },
+   {
+    "name": "PEACOX, CHRISTIAN",
+    "party": "",
+    "designation": "Carlsbad City Treasurer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CHULA VISTA - CITY ATTORNEY",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "VERDUGO, MARCO",
+    "party": "",
+    "designation": "Chula Vista City Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CHULA VISTA - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CHAVEZ, CAROLINA",
+    "party": "",
+    "designation": "Councilmember, City of Chula Vista",
+    "qualified": true
+   },
+   {
+    "name": "MARTINEZ, GREG",
+    "party": "",
+    "designation": "CPA/Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CHULA VISTA - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTINEZ, ANGELICA S.",
+    "party": "",
+    "designation": "Educator/Parent",
+    "qualified": true
+   },
+   {
+    "name": "PRECIADO, JOSE",
+    "party": "",
+    "designation": "Chula Vista Councilmember/Educator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CHULA VISTA - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MCCANN, JOHN",
+    "party": "",
+    "designation": "Mayor, City of Chula Vista",
+    "qualified": true
+   },
+   {
+    "name": "TAMAYO, FRANCISCO",
+    "party": "",
+    "designation": "Governing Board Member, Chula Vista Elementary School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF CORONADO - CITY COUNCIL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GADE, ANDREW",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "HOYT, RICKY",
+    "party": "",
+    "designation": "Aviator/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "KING, REBECCA",
+    "party": "",
+    "designation": "Attorney",
+    "qualified": true
+   },
+   {
+    "name": "PURVIS, KELLY",
+    "party": "",
+    "designation": "Appointed City of Coronado Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF DEL MAR - CITY COUNCIL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GAASTERLAND, TERRY",
+    "party": "",
+    "designation": "City Councilmember/Professor",
+    "qualified": true
+   },
+   {
+    "name": "GREWAL, JAS",
+    "party": "",
+    "designation": "Planning Commissioner/Banker",
+    "qualified": true
+   },
+   {
+    "name": "SPIEKER, MEGHAN O.",
+    "party": "",
+    "designation": "Planning Commissioner",
+    "qualified": true
+   },
+   {
+    "name": "STURGIS, JEFF",
+    "party": "",
+    "designation": "Biotech Executive",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF EL CAJON - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KRAFT, ALEXANDER",
+    "party": "",
+    "designation": "Legal Support Assistant",
+    "qualified": true
+   },
+   {
+    "name": "WELLS, BILL",
+    "party": "",
+    "designation": "Mayor of El Cajon",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF EL CAJON - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BAYATI, OSAMA",
+    "party": "",
+    "designation": "Civic Affairs Director",
+    "qualified": true
+   },
+   {
+    "name": "GRILLOT, PATRICK",
+    "party": "",
+    "designation": "Healthcare Manager/Parent",
+    "qualified": true
+   },
+   {
+    "name": "KAYE, CHUCK",
+    "party": "",
+    "designation": "Retired Police Chief",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF ENCINITAS - CITY COUNCIL-DISTRICT NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GOLDEN, ARIELLE",
+    "party": "",
+    "designation": "Community Organizer",
+    "qualified": true
+   },
+   {
+    "name": "SPRAGUE, ED",
+    "party": "",
+    "designation": "Retired Firefighter/Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF ENCINITAS - CITY COUNCIL-DISTRICT NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LEFKOWITS, BRAD",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "SAN ANTONIO, MARCO",
+    "party": "",
+    "designation": "Appointed Councilmember/Businessman",
+    "qualified": true
+   },
+   {
+    "name": "EHLERS, BRUCE",
+    "party": "",
+    "designation": "Mayor, City of Encinitas",
+    "qualified": true
+   },
+   {
+    "name": "VISKANTA, RIMGA",
+    "party": "",
+    "designation": "Trustee, San Dieguito Union High School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF ESCONDIDO - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "VELAZQUEZ, ELIAS",
+    "party": "",
+    "designation": "Nonprofit Executive",
+    "qualified": true
+   },
+   {
+    "name": "WHITE, DANE M.",
+    "party": "",
+    "designation": "Mayor, City of Escondido",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF ESCONDIDO - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HORSLEY, TANNER",
+    "party": "",
+    "designation": "Navy Communications Manager",
+    "qualified": true
+   },
+   {
+    "name": "VALENZUELA, VANESSA",
+    "party": "",
+    "designation": "Director of Finance",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF ESCONDIDO - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DIMARTINO, ANTHONY",
+    "party": "",
+    "designation": "Government Affairs Director",
+    "qualified": true
+   },
+   {
+    "name": "GARCIA, JOE",
+    "party": "",
+    "designation": "Pastor/City Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF IMPERIAL BEACH - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BRADLEY, KARL",
+    "party": "",
+    "designation": "Retired School Administrator",
+    "qualified": true
+   },
+   {
+    "name": "LEYBA-GONZALEZ, MATTHEW",
+    "party": "",
+    "designation": "Councilmember/Union Representative",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF IMPERIAL BEACH - CITY COUNCIL-DISTRICT 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BERRY, STEVE",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "LOPEZ EGUINO, JOSE A.",
+    "party": "",
+    "designation": "School Board Member, South Bay Union School District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF IMPERIAL BEACH - CITY COUNCIL-DISTRICT 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DIALLO, O'MAR",
+    "party": "",
+    "designation": "Federal Law Enforcement",
+    "qualified": true
+   },
+   {
+    "name": "NAKAWATASE, MARIKO",
+    "party": "",
+    "designation": "Small Businesswoman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF LA MESA - CITY COUNCIL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALO, MOANA",
+    "party": "",
+    "designation": "Senate District Representative",
+    "qualified": true
+   },
+   {
+    "name": "NATALIA, AMANDA-DAWN",
+    "party": "",
+    "designation": "Attorney/Commissioner/Mother",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF LA MESA - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LOTHIAN, LAURA",
+    "party": "",
+    "designation": "City of La Mesa Councilmember/Businesswoman",
+    "qualified": true
+   },
+   {
+    "name": "NORMANDY-DILLARD, PATRICIA",
+    "party": "",
+    "designation": "City of La Mesa Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "REESE, QUINN M.",
+    "party": "",
+    "designation": "Regenerative Farmer",
+    "qualified": true
+   },
+   {
+    "name": "STIERINGER, JIM",
+    "party": "",
+    "designation": "Retired City of La Mesa Treasurer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF LA MESA - TREASURER",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "EXETER, BILL",
+    "party": "",
+    "designation": "Treasurer/CFO/CEO",
+    "qualified": true
+   },
+   {
+    "name": "STEWART, EMMETT",
+    "party": "",
+    "designation": "Financial Analyst",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF LEMON GROVE - CITY COUNCIL",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CLARK MANSON, MINOLA",
+    "party": "",
+    "designation": "Planning Commissioner",
+    "qualified": true
+   },
+   {
+    "name": "JOHNSON, KRYSTLE",
+    "party": "",
+    "designation": "Special Education Teacher",
+    "qualified": true
+   },
+   {
+    "name": "SMITH, JOE",
+    "party": "",
+    "designation": "Community Engagement Director",
+    "qualified": true
+   },
+   {
+    "name": "SMITH, SETH",
+    "party": "",
+    "designation": "Appointed Councilmember/Businessman",
+    "qualified": true
+   },
+   {
+    "name": "MENDOZA, JENNIFER",
+    "party": "",
+    "designation": "City Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "MENDOZA, YASMIN",
+    "party": "",
+    "designation": "Healthcare Worker",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF NATIONAL CITY - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BEAUCHAMP, RUBLE MITCHEL",
+    "party": "",
+    "designation": "Biological Consultant",
+    "qualified": true
+   },
+   {
+    "name": "BUSH, MARCUS",
+    "party": "",
+    "designation": "Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "CASTREJON, JACOBB",
+    "party": "",
+    "designation": "Stem-Enrichment Instructor",
+    "qualified": true
+   },
+   {
+    "name": "RODRIGUEZ, JOSE",
+    "party": "",
+    "designation": "Councilmember, City of National City",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF NATIONAL CITY - CITY COUNCIL-DISTRICT 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LOPEZ, CINDY",
+    "party": "",
+    "designation": "Teacher/Mother/Trustee",
+    "qualified": true
+   },
+   {
+    "name": "MOLINA, LUZ",
+    "party": "",
+    "designation": "Councilmember District 1",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF NATIONAL CITY - CITY COUNCIL-DISTRICT 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CANO, JERRY",
+    "party": "",
+    "designation": "Environmental Protection Specialist",
+    "qualified": true
+   },
+   {
+    "name": "NIETO, EDWARD",
+    "party": "",
+    "designation": "Retired Governmental Accountant",
+    "qualified": true
+   },
+   {
+    "name": "YAMANE, DITAS",
+    "party": "",
+    "designation": "Councilmember/Businesswoman/Mother",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF OCEANSIDE - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CLINE, MICHAEL",
+    "party": "",
+    "designation": "Retired U.S. Army",
+    "qualified": true
+   },
+   {
+    "name": "JOYCE, ERIC",
+    "party": "",
+    "designation": "Oceanside City Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF OCEANSIDE - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALVAREZ, PERRY",
+    "party": "",
+    "designation": "Automotive Repair Manager",
+    "qualified": true
+   },
+   {
+    "name": "GONZALES, EMILY",
+    "party": "",
+    "designation": "Director/Facilitator/Mother",
+    "qualified": true
+   },
+   {
+    "name": "JAMES, RICKY",
+    "party": "",
+    "designation": "Real Estate Broker",
+    "qualified": true
+   },
+   {
+    "name": "ORTEGA, OSCARIN",
+    "party": "",
+    "designation": "Nonprofit Executive",
+    "qualified": true
+   },
+   {
+    "name": "ROBINSON, RICHARD",
+    "party": "",
+    "designation": "Oceanside City Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF POWAY - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MAEDA, JENNY",
+    "party": "",
+    "designation": "District 4 Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "OLPS, DELLENA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "VAUS, STEVE",
+    "party": "",
+    "designation": "Mayor/Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF POWAY - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PIKUS, CHRIS",
+    "party": "",
+    "designation": "Appointed Councilmember/Engineer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF POWAY - CITY COUNCIL-DISTRICT NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DE HOFF, PETER",
+    "party": "",
+    "designation": "City Councilman/Scientist",
+    "qualified": true
+   },
+   {
+    "name": "WALDER, BOB",
+    "party": "",
+    "designation": "Volunteer Administrator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN DIEGO - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BAILEY, RICHARD",
+    "party": "",
+    "designation": "San Diego Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "CROSBY, NICOLE",
+    "party": "",
+    "designation": "Deputy City Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN DIEGO - CITY COUNCIL-DISTRICT NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ABRAHAM, MARTHA",
+    "party": "",
+    "designation": "Neonatal ICU Nurse/Mother",
+    "qualified": true
+   },
+   {
+    "name": "FOSTER III, HENRY",
+    "party": "",
+    "designation": "Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN DIEGO - CITY COUNCIL-DISTRICT NO. 6",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LEE, KENT",
+    "party": "",
+    "designation": "City Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "POWELL, MARK",
+    "party": "",
+    "designation": "Business Owner/Educator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN DIEGO - CITY COUNCIL-DISTRICT NO. 8",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTINEZ, ANTONIO",
+    "party": "",
+    "designation": "Governing Board Member, San Ysidro School District",
+    "qualified": true
+   },
+   {
+    "name": "RAMIREZ, GERARDO",
+    "party": "",
+    "designation": "Chief of Staff, District 8",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN MARCOS - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "JENKINS, SHARON",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "SANNELLA, MIKE",
+    "party": "",
+    "designation": "San Marcos Deputy Mayor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN MARCOS - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GABRIELE, THOMAS",
+    "party": "",
+    "designation": "Teacher/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "NUNEZ, MARIA",
+    "party": "",
+    "designation": "San Marcos Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SAN MARCOS - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MATSUSHITA, JUSTIN",
+    "party": "",
+    "designation": "Educator/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "SMITH, LINDSEY",
+    "party": "",
+    "designation": "Planning Commissioner/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SANTEE - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MCNELIS, ROB",
+    "party": "",
+    "designation": "Councilmember/Businessman",
+    "qualified": true
+   },
+   {
+    "name": "RASCON, MATTHEW G.",
+    "party": "",
+    "designation": "Orthopaedic Technologist",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SANTEE - CITY COUNCIL-DISTRICT NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HALL, RONN",
+    "party": "",
+    "designation": "Business Owner/Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "VANDIVER, EDDIE",
+    "party": "",
+    "designation": "Business Owner/Parent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SOLANA BEACH - CITY COUNCIL-DISTRICT 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BECKER, KRISTI",
+    "party": "",
+    "designation": "Solana Beach City Councilmember",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF SOLANA BEACH - CITY COUNCIL-DISTRICT 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WOLFE-DELLAMANO, JENNA",
+    "party": "",
+    "designation": "Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF VISTA - MAYOR",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GREEN, JOE",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "ZUNIGA, KENNETH",
+    "party": "",
+    "designation": "Businessman/ Homelessness Advocate",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF VISTA - CITY COUNCIL-DISTRICT NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CONTRERAS, CORINNA",
+    "party": "",
+    "designation": "Councilmember/Policy Advocate",
+    "qualified": true
+   },
+   {
+    "name": "KENNISTON ALVAREZ, YOLANDA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "NUNEZ, FRANK",
+    "party": "",
+    "designation": "Non-Profit Director/ Businessman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CITY OF VISTA - CITY COUNCIL-DISTRICT NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAVIS, JOSH",
+    "party": "",
+    "designation": "Public Safety Technologist",
+    "qualified": true
+   },
+   {
+    "name": "O'DONNELL, DAN",
+    "party": "",
+    "designation": "Vista City Council Member Dist. 4",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ALPINE COMMUNITY PLANNING GROUP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAVIS, MARY",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MCKEE, PATRICK",
+    "party": "",
+    "designation": "Retired Senior Chief",
+    "qualified": true
+   },
+   {
+    "name": "WILLIS, BARON T.",
+    "party": "",
+    "designation": "Insurance Broker",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "ALPINE FIRE PROTECTION",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BAILEY, MARC C.",
+    "party": "",
+    "designation": "Security Manager",
+    "qualified": true
+   },
+   {
+    "name": "PASKLE, BILL F.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BONITA-SUNNYSIDE FIRE PROTECTION - DIVISION 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARUGG, JAMES M",
+    "party": "",
+    "designation": "Fire Board Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BONITA-SUNNYSIDE FIRE PROTECTION - DIVISION 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "POCKLINGTON, TOM",
+    "party": "",
+    "designation": "Board Director",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BORREGO WATER",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DICE, KATHY",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "DUNCAN, DAVE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MORAN, GINA",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "BOULEVARD COMM PLANNING GROUP",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "RALPHS, ANTHONY",
+    "party": "",
+    "designation": "Community Volunteer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CAMPO/LAKE MORENA COMM PLAN GRP",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BIDDLE, STEPHEN",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "BLAISDELL, RICHARD N.",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "CANEBRAKE COUNTY WATER",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COLLINS, ANDIE",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HAE, ELLYN",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HOLMES, DARYL",
+    "party": "",
+    "designation": "Board Member",
+    "qualified": true
+   },
+   {
+    "name": "MCKENNEY, F. C",
+    "party": "",
+    "designation": "Retired Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "COACHELLA VALLEY WATER - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ESTRADA-REAL, CASTULO",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "DEHESA COMMUNITY PLANNING GROUP",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SCHERER, TIM",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "HARBISON CANYON COMM PLAN GRP",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GEIGER, DAVID A.",
+    "party": "",
+    "designation": "Veterinarian",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "DEER SPRINGS FIRE PROTECTION",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ATWOOD, CARL",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "CAPLES, LYNNE",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "GORDON, JAMES E",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "KERRIN, STEVE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "LEATHERBERRY, DAVID",
+    "party": "",
+    "designation": "Health Law Attorney",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "DESCANSO COMMUNITY PLANNING GRP",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ELLIOTT, JOHN D.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "KLEIST, JENNIFER",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "O'BRIANT, CAMILLE J.",
+    "party": "",
+    "designation": "Appointed Planning Group Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FAIRBANKS RANCH COMMUNITY SRVCS",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CONGER, MICHAEL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HUBBARD, PAUL",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "NIERMAN, JAMES S.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK COMMUNITY PLANNING GRP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BROWN, STEVE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "DELANEY, EILEEN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "DOMERCQ, JENIENE L.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HARGROVE, LILA",
+    "party": "",
+    "designation": "Nonprofit CEO",
+    "qualified": true
+   },
+   {
+    "name": "NEESE, JJ",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "SMITH, JONATHAN",
+    "party": "",
+    "designation": "Local Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "SPENCER, JOHN",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "STADNIK, EMILY",
+    "party": "",
+    "designation": "Engineering Project Manager",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK PUBLIC UTILITY - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ENDTER, KENNETH W.",
+    "party": "",
+    "designation": "Fallbrook Public Utility District 2 Director",
+    "qualified": true
+   },
+   {
+    "name": "HOFFMAN, GERRY",
+    "party": "",
+    "designation": "Retired Chemistry Professor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK PUBLIC UTILITY - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WOLK, CHARLEY",
+    "party": "",
+    "designation": "Farm Manager",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK REGIONAL HEALTH - ZONE NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ATKINS, ANNE",
+    "party": "",
+    "designation": "Retired Teacher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK REGIONAL HEALTH - ZONE NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ACOSTA, CINDY OROS",
+    "party": "",
+    "designation": "Appointed Director, Fallbrook Regional Health District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "FALLBROOK REGIONAL HEATLH - ZONE NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BECKET, STEPHANIE",
+    "party": "",
+    "designation": "Business Owner/Mother",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "GROSSMONT HEALTHCARE - ZONE NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LENAC, RANDY",
+    "party": "",
+    "designation": "Grossmont Healthcare President",
+    "qualified": true
+   },
+   {
+    "name": "MORRISSEY, JENNIFER",
+    "party": "",
+    "designation": "Commissioner/Nonprofit Executive",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "GROSSMONT HEALTHCARE - ZONE NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "REMPEL, CLAUDIA",
+    "party": "",
+    "designation": "Emergency Medical Technician",
+    "qualified": true
+   },
+   {
+    "name": "WATKINS, MAGGIE T.",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "HELIX WATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAMSKY, ANDREA BETH",
+    "party": "",
+    "designation": "Director, Helix Water District",
+    "qualified": true
+   },
+   {
+    "name": "POWERS, LAWRENCE",
+    "party": "",
+    "designation": "Loan Officer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "HELIX WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ABDEL-SAMAD, MOUNAH",
+    "party": "",
+    "designation": "Public Administration Professor",
+    "qualified": true
+   },
+   {
+    "name": "HEDBERG, KATHLEEN",
+    "party": "",
+    "designation": "Board Director, Helix Water District",
+    "qualified": true
+   },
+   {
+    "name": "SORIANO GARISTA, LILIANA",
+    "party": "",
+    "designation": "Director of Policy",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JACUMBA COMMUNITY SERVICES",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FORDEM, BRIANNA",
+    "party": "",
+    "designation": "Executive Director",
+    "qualified": true
+   },
+   {
+    "name": "MCMANNUS, SAM",
+    "party": "",
+    "designation": "Community Volunteer",
+    "qualified": true
+   },
+   {
+    "name": "OSBORNE, JEFF",
+    "party": "",
+    "designation": "Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JAMUL/DULZURA COMM PLANNING GRP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CASINELLI, MICHAEL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "GRAY, THOMAS",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MAY, KEVIN J.",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "MCCALLISTER, LINDSAY",
+    "party": "",
+    "designation": "Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "WALTERS, AMANDA K.",
+    "party": "",
+    "designation": "Businesswoman/General Contractor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "JULIAN COMMUNITY PLANNING GROUP",
+  "voteFor": 5,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BROWN, PATRICK",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "FAY, SUZANNE",
+    "party": "",
+    "designation": "Retired Self-employed Bookkeeper",
+    "qualified": true
+   },
+   {
+    "name": "FENDER, BRANDON",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MORETTI, KATY",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MUSHET, KENNY",
+    "party": "",
+    "designation": "General Contractor/Rancher",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE COMMUNITY PLANNING GRP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ABRAHAM, RICHARD",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "BROWN, SHERYL KIMBERLY",
+    "party": "",
+    "designation": "Business Excellence Leader",
+    "qualified": true
+   },
+   {
+    "name": "CARNEVALE, ASHLEY",
+    "party": "",
+    "designation": "Mother/Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "DEAKINS, SANDRA",
+    "party": "",
+    "designation": "Community Volunteer",
+    "qualified": true
+   },
+   {
+    "name": "EVERHART, KRISTEN",
+    "party": "",
+    "designation": "Professor",
+    "qualified": true
+   },
+   {
+    "name": "GEISEL, MARK",
+    "party": "",
+    "designation": "Teacher/Grandparent",
+    "qualified": true
+   },
+   {
+    "name": "NIGH, DYLAN",
+    "party": "",
+    "designation": "Community Organizer",
+    "qualified": true
+   },
+   {
+    "name": "PREDDY, RYAN",
+    "party": "",
+    "designation": "Software Engineer",
+    "qualified": true
+   },
+   {
+    "name": "REVA, OLEKSANDRA",
+    "party": "",
+    "designation": "Lakeside Community Planning Group Member",
+    "qualified": true
+   },
+   {
+    "name": "ROBAK, STEVE",
+    "party": "",
+    "designation": "LCPG Member/ Businessman",
+    "qualified": true
+   },
+   {
+    "name": "STREEPER, RODERICK",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE FIRE PROTECTION - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BOWSER, BRENT C.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE FIRE PROTECTION - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LIEBIG, PETER A. K.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE WATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "JENKINS, PETE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LAKESIDE WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HILLIKER, FRANK I",
+    "party": "",
+    "designation": "Farmer/Businessman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LEUCADIA WASTEWATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SULLIVAN, ELAINE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LEUCADIA WASTEWATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "SALDANA, ROLANDO A.",
+    "party": "",
+    "designation": "Appointed Director",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "LOWER SWEETWATER FIRE PROTECTION",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ESCAMILLA, YOLANDA R.",
+    "party": "",
+    "designation": "Board of Directors Lower Sweetwater Fire Protection District",
+    "qualified": true
+   },
+   {
+    "name": "MORRISON, ALISHA",
+    "party": "",
+    "designation": "Community Volunteer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "MORRO HILLS COMMUNITY SERVICES",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FISHERKELLER, KERRY J.",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MEEHAN, PATRICK",
+    "party": "",
+    "designation": "Accountant",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "NORTH COUNTY FIRE PROTECTION - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTING, COLE",
+    "party": "",
+    "designation": "Wildfire Policy Author",
+    "qualified": true
+   },
+   {
+    "name": "SHAW, CHRIS",
+    "party": "",
+    "designation": "Director, North County Fire Protection District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "NORTH COUNTY FIRE PROTECTION - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "IBBOTSON, CHRISTINE",
+    "party": "",
+    "designation": "Businesswoman/Gemologist",
+    "qualified": true
+   },
+   {
+    "name": "MUNSON, KENNETH E.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "REARDON, MIKE",
+    "party": "",
+    "designation": "Retired Fire Captain",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OLIVENHAIN MUNICIPAL WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LANFRIED, EBIN",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OLIVENHAIN MUNICIPAL WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HAHN, MATTHEW",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OTAY WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "RIVERA, FRANCISCO X.",
+    "party": "",
+    "designation": "Appointed Director",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "OTAY WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CROUCHER, GARY D.",
+    "party": "",
+    "designation": "Retired Fire Chief",
+    "qualified": true
+   },
+   {
+    "name": "GASTELUM, HECTOR RAUL",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PADRE DAM MUNI WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FORDYCE, BRIAN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "WOODS, BILL",
+    "party": "",
+    "designation": "Retired Police Sergeant",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PADRE DAM MUNI WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "POMMERING, BILL",
+    "party": "",
+    "designation": "Small Businessowner",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PADRE DAM MUNI WATER - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "QUALIN, ROCKY",
+    "party": "",
+    "designation": "Insurance Professional",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PALOMAR HEALTH - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "EDWARDS-TATE, LAURIE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "TELAHUN, SARAH",
+    "party": "",
+    "designation": "Registered Nurse, Kaiser Permanente",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PALOMAR HEALTH - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CHRISTENSEN, AMANDA",
+    "party": "",
+    "designation": "Registered Nurse, Scripps Health",
+    "qualified": true
+   },
+   {
+    "name": "CLARK, JOHN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PALOMAR HEALTH - DIVISION NO. 7",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BUTLER, IAN",
+    "party": "",
+    "designation": "Critical Care Physician, Tri-City Medical Center",
+    "qualified": true
+   },
+   {
+    "name": "GREER, LINDA C",
+    "party": "",
+    "designation": "Registered Nurse",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "PINE VALLEY COMMUNITY PLAN GRP",
+  "voteFor": 6,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "AUSTIN, CLARK",
+    "party": "",
+    "designation": "Board Member, Pine Valley Community Planning Group",
+    "qualified": true
+   },
+   {
+    "name": "GASCON, JORDAN",
+    "party": "",
+    "designation": "Board Member, Pine Valley Community Planning Group",
+    "qualified": true
+   },
+   {
+    "name": "HARDY, DALE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "POTRERO COMMUNITY PLANNING GROUP",
+  "voteFor": 4,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HEDLUN, JAN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "QUESTHAVEN MUNICIPAL WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ISAAC, MYRA",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "QUESTHAVEN MUNICIPAL WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "NIXON, RANDY W",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "QUESTHAVEN MUNICIPAL WATER - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ISAAC, BLAKE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAINBOW COMMUNITY PLANNING GROUP",
+  "voteFor": 5,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DAHL, MICHELE D.",
+    "party": "",
+    "designation": "Educator",
+    "qualified": true
+   },
+   {
+    "name": "KURLAND, MARTIN",
+    "party": "",
+    "designation": "Retired Radiologist",
+    "qualified": true
+   },
+   {
+    "name": "MALINOWSKI, LYNNE",
+    "party": "",
+    "designation": "Retired Accountant",
+    "qualified": true
+   },
+   {
+    "name": "RASP, FREDERICK",
+    "party": "",
+    "designation": "Farmer",
+    "qualified": true
+   },
+   {
+    "name": "WALTON, SUZANNE",
+    "party": "",
+    "designation": "Farmer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAINBOW MUNICIPAL WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "IRVINE, GREG",
+    "party": "",
+    "designation": "Small Business Owner",
+    "qualified": true
+   },
+   {
+    "name": "MOSS, PAM",
+    "party": "",
+    "designation": "Realty Broker",
+    "qualified": true
+   },
+   {
+    "name": "WILSON, CAROL",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   }
+  ]
+ },
+ {
+  "title": "RAINBOW MUNICIPAL WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "TOWNSEND-SMITH, PATRICIA",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   }
+  ]
+ },
+ {
+  "title": "RAMONA COMMUNITY PLANNING GROUP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ADELSON, WILLIAM S",
+    "party": "",
+    "designation": "Architect",
+    "qualified": true
+   },
+   {
+    "name": "BROWNING, SOPHIA",
+    "party": "",
+    "designation": "Attorney",
+    "qualified": true
+   },
+   {
+    "name": "DOIG, SCOTT",
+    "party": "",
+    "designation": "Electrical Salesman",
+    "qualified": true
+   },
+   {
+    "name": "GARCIA, LISA",
+    "party": "",
+    "designation": "Insurance Claims Adjuster",
+    "qualified": true
+   },
+   {
+    "name": "MANSOLF, KRISTI",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MAXSON, ROBIN JOY",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "PERFECT, DAWN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "ROBERTS, TIM",
+    "party": "",
+    "designation": "Retired Service Manager",
+    "qualified": true
+   },
+   {
+    "name": "WELTY, LAUREN ELYSE",
+    "party": "",
+    "designation": "Land Developer",
+    "qualified": true
+   },
+   {
+    "name": "LYNCH, CASEY",
+    "party": "",
+    "designation": "Professional Land Surveyor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAMONA MUNICIPAL WATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HICKLE, JIM",
+    "party": "",
+    "designation": "Engineer/Executive Director",
+    "qualified": true
+   },
+   {
+    "name": "STEVENSON, JOHN",
+    "party": "",
+    "designation": "Retired Businessman",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RAMONA MUNICIPAL WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "POWELL, BRANDON",
+    "party": "",
+    "designation": "Chief Investment Officer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RANCHO SANTA FE COMMUNITY SRVCS",
+  "voteFor": 3,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "LEMARIE, LAUREL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "TANNER, JOHN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "TOWNSEND, JAMES",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RANCHO SANTA FE FIRE PROTECTION",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "STINE, TUCKER",
+    "party": "",
+    "designation": "Rancho Santa Fe Fire Protection District Director",
+    "qualified": true
+   },
+   {
+    "name": "TANNER, JOHN",
+    "party": "",
+    "designation": "Director, Rancho Santa Fe Fire Protection District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RINCON DEL DIABLO MUNI WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KENNEDY, TOM",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RINCON DEL DIABLO MUNI WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HOVING, KENNETH",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "MARTINEZ, ABEL",
+    "party": "",
+    "designation": "Cybersecurity Engineer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "RINCON DEL DIABLO MUNI WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WAHL, EVAN R.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN DIEGUITO COMMUNITY PLAN GRP",
+  "voteFor": 6,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FOGG, SHARON",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "KENT, LORRAINE",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "LEMARIE, LAUREL",
+    "party": "",
+    "designation": "Retired Computer Analyst",
+    "qualified": true
+   },
+   {
+    "name": "NELSON, BETH",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "VELKY JR, THOMAS S",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN LUIS REY MUNICIPAL WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "PANKEY, WILLIAM H",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN LUIS REY MUNICIPAL WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "VEYSEY, TOM",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN MIGUEL CONS FIRE PROT - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FRYLING, KURT",
+    "party": "",
+    "designation": "Retired Fire Captain",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN MIGUEL CONS FIRE PROT - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MCKENNA, THERESA",
+    "party": "",
+    "designation": "Retired Fire Captain",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SAN MIGUEL CONS FIRE PROT - DIVISION NO. 7",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "GETTMANN, MALCOLM",
+    "party": "",
+    "designation": "Retired Union President",
+    "qualified": true
+   },
+   {
+    "name": "WOODRUFF, EDWARD",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTA FE IRRIGATION - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "JOHNSON, SANDRA D.",
+    "party": "",
+    "designation": "Santa Fe Irrigation District, Director, Division 3",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTA FE IRRIGATION - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HOGAN, MICHAEL T.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SANTA FE IRRIGATION - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MENSHEK, ANDREW J.",
+    "party": "",
+    "designation": "Governing Board Member Santa Fe Irrigation District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTH BAY WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CASTANEDA, STEVE",
+    "party": "",
+    "designation": "Director, South Bay Water, Div. 1",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SOUTH BAY WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MARTINEZ, HECTOR",
+    "party": "",
+    "designation": "Water Engineer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SPRING VALLEY COMM PLANNING GRP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CAMARGO, ANGELICA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "CAMARGO, RICARDO",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "GETTMANN, MALCOLM",
+    "party": "",
+    "designation": "Appointed Member, Spring Valley Community Planning Group",
+    "qualified": true
+   },
+   {
+    "name": "HARDING, CHRIS",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "LOWES, LORA",
+    "party": "",
+    "designation": "Member, Spring Valley Community Planning Group",
+    "qualified": true
+   },
+   {
+    "name": "PEARSON, CHRISTOPHER",
+    "party": "",
+    "designation": "Spring Valley Community Planning Group Member",
+    "qualified": true
+   },
+   {
+    "name": "SUAREZ, CICELY",
+    "party": "",
+    "designation": "Social Services Supervisor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "SWEETWATER COMM PLANNING GROUP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ALLEN, CRAIG S.",
+    "party": "",
+    "designation": "Retired Navy Chief",
+    "qualified": true
+   },
+   {
+    "name": "BUROW, DANIEL A.",
+    "party": "",
+    "designation": "Retired Law Enforcement",
+    "qualified": true
+   },
+   {
+    "name": "DE LA ROSA, LUIS RAFAEL",
+    "party": "",
+    "designation": "Engineer/Farmer/Educator",
+    "qualified": true
+   },
+   {
+    "name": "DIAZ, DANIEL",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "FERNANDEZ, CARRI JO",
+    "party": "",
+    "designation": "Broker Associate",
+    "qualified": true
+   },
+   {
+    "name": "HEAVILIN, SUSAN M",
+    "party": "",
+    "designation": "Online News Publisher",
+    "qualified": true
+   },
+   {
+    "name": "HODGE, DONNA",
+    "party": "",
+    "designation": "Retired Customer Representative",
+    "qualified": true
+   },
+   {
+    "name": "NOE, LORI",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "OROZCO, ARCHIE",
+    "party": "",
+    "designation": "Retired Automotive Administrator",
+    "qualified": true
+   },
+   {
+    "name": "STONEHOUSE, STEPHEN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "TAYLOR, HARRIET",
+    "party": "",
+    "designation": "Community Advocate",
+    "qualified": true
+   },
+   {
+    "name": "TAYLOR, JOHN",
+    "party": "",
+    "designation": "Physician",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "TRI-CITY HEALTHCARE - ZONE NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KERN, JEROME M.",
+    "party": "",
+    "designation": "Retired City Councilmember",
+    "qualified": true
+   },
+   {
+    "name": "LAURIANO, KAYLA",
+    "party": "",
+    "designation": "Registered Nurse, MiraCosta College",
+    "qualified": true
+   },
+   {
+    "name": "PIEK, MARILYN",
+    "party": "",
+    "designation": "Registered Nurse, Genex Services",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "TRI-CITY HEALTHCARE - ZONE NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "COULTER, GEORGE W.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "TRI-CITY HEALTHCARE - ZONE NO. 6",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "YOUNGER, TRACY M.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLE DE ORO COMM PLANNING GROUP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "CONWAY, DANIEL",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HAUKOM, KRISTIN",
+    "party": "",
+    "designation": "Transportation Planner",
+    "qualified": true
+   },
+   {
+    "name": "HEDBERG, KATHLEEN",
+    "party": "",
+    "designation": "Member, Valle de Oro Community Planning Group",
+    "qualified": true
+   },
+   {
+    "name": "HILANTU, ALLEN",
+    "party": "",
+    "designation": "Accountant",
+    "qualified": true
+   },
+   {
+    "name": "SALMAN, ABDULRAHIM",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   },
+   {
+    "name": "STEIGER, JAY",
+    "party": "",
+    "designation": "Member, Valle de Oro Community Planning Group",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLECITOS WATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HERNANDEZ, JIM",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLECITOS WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ELITHARP, CRAIG",
+    "party": "",
+    "designation": "Board of Directors Vallecitos Water District",
+    "qualified": true
+   },
+   {
+    "name": "BROWN, TANIS",
+    "party": "",
+    "designation": "Appointed Director, Division No. 5, Vallecitos Water District",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER COMM PLANNING GRP",
+  "voteFor": 7,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ADAMS, LISA H.",
+    "party": "",
+    "designation": "Civil Engineer",
+    "qualified": true
+   },
+   {
+    "name": "CIUPITU, VLAD ANTHONY",
+    "party": "",
+    "designation": "Navy Government Contractor",
+    "qualified": true
+   },
+   {
+    "name": "FAJARDO, SUSAN",
+    "party": "",
+    "designation": "Retired Registered Nurse",
+    "qualified": true
+   },
+   {
+    "name": "GARRITSON, JAMES",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "HUTCHISON, STEVE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "IHEME, MORDI",
+    "party": "",
+    "designation": "Retired Chemical Engineer",
+    "qualified": true
+   },
+   {
+    "name": "MALLOY, PATRICK",
+    "party": "",
+    "designation": "",
+    "qualified": false
+   },
+   {
+    "name": "MATTHEWS, MATT J.",
+    "party": "",
+    "designation": "Veterinarian",
+    "qualified": true
+   },
+   {
+    "name": "NOLL, ANDREW",
+    "party": "",
+    "designation": "Retired Commercial Banker",
+    "qualified": true
+   },
+   {
+    "name": "NORWOOD, LAVONNE R.",
+    "party": "",
+    "designation": "Valley Center Community Planning Group Member",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER FIRE PROTECTION - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HUTCHISON, STEVE",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER FIRE PROTECTION - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WERKHEISER, LIN",
+    "party": "",
+    "designation": "VP Special Investigations",
+    "qualified": true
+   },
+   {
+    "name": "YEAGER, JOHN",
+    "party": "",
+    "designation": "Mortgage Originator",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER MUNICIPAL WATER - DIVISION NO. 2",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ARDALAN, TASHA",
+    "party": "",
+    "designation": "",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER MUNICIPAL WATER - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "BAKER, PATRICK",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VALLEY CENTER MUNICIPAL WATER - DIVISION NO. 5",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "ATKINS, B.J.",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   },
+   {
+    "name": "TORRE-BUENO, JOSE",
+    "party": "",
+    "designation": "Director Environmental Nonprofit",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA FIRE PROTECTION - DIVISION D",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FARRELLY, BRENDAN",
+    "party": "",
+    "designation": "Executive Financial Advisor",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA FIRE PROTECTION - DIVISION E",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "HILL, JERRY",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA IRRIGATION - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "MILLER, MARTY",
+    "party": "",
+    "designation": "Board Director",
+    "qualified": true
+   },
+   {
+    "name": "ALLEN, ROLAND",
+    "party": "",
+    "designation": "Retired Businessman",
+    "qualified": true
+   },
+   {
+    "name": "GARCIA, ELIDA",
+    "party": "",
+    "designation": "Construction Office Manager",
+    "qualified": true
+   },
+   {
+    "name": "VASQUEZ, RICHARD L.",
+    "party": "",
+    "designation": "Retired Engineering Designer",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "VISTA IRRIGATION - DIVISION NO. 3",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "DE JESUS, LISA",
+    "party": "",
+    "designation": "Land Use Consultant",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "WHISPERING PALMS COMMUNITY SRVCS",
+  "voteFor": 2,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "FORD, VIVIAN LEE",
+    "party": "",
+    "designation": "Retired Broker",
+    "qualified": true
+   },
+   {
+    "name": "HAYNOR, WILLIAM W.",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "YUIMA MUNICIPAL WATER - DIVISION NO. 1",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "KARIYA, LAURIE",
+    "party": "",
+    "designation": "Appointed Incumbent",
+    "qualified": true
+   }
+  ]
+ },
+ {
+  "title": "YUIMA MUNICIPAL WATER - DIVISION NO. 4",
+  "voteFor": 1,
+  "term": "Full Term",
+  "candidates": [
+   {
+    "name": "WEHR, STEPHEN",
+    "party": "",
+    "designation": "Incumbent",
+    "qualified": true
+   }
+  ]
+ }
+]

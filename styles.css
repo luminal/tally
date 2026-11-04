@@ -1,0 +1,111 @@
+/* Tally: same paper and type as the ballot sheets. Phone-first, installs as an app. */
+:root{
+  --paper:#FBFAF6; --ink:#17201F; --muted:#5E6866; --rule:#CFD4CE;
+  --accent:#1F5A4E; --accent-soft:#E6EFEA; --flag:#8A4B1E; --flag-soft:#F6EBE1; --miss:#8A2E2E; --miss-soft:#F5E6E4;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Public Sans",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#15191A; --ink:#ECEEE9; --muted:#A4ACA8; --rule:#333A38;
+  --accent:#8FCDB9; --accent-soft:#1E2E2A; --flag:#E2A878; --flag-soft:#30241A; --miss:#E39B9B; --miss-soft:#33201F; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --paper:#15191A; --ink:#ECEEE9; --muted:#A4ACA8; --rule:#333A38;
+  --accent:#8FCDB9; --accent-soft:#1E2E2A; --flag:#E2A878; --flag-soft:#30241A; --miss:#E39B9B; --miss-soft:#33201F; color-scheme:dark }
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.4;
+  padding-block:0 84px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.app{max-width:720px;margin:0 auto}
+header.top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:18px 0 10px;border-bottom:2px solid var(--ink);margin-bottom:14px;position:sticky;top:0;background:var(--paper);z-index:5}
+.brand{font-family:var(--display);font-weight:700;font-size:22px;margin:0}
+.brand small{font-family:var(--body);font-weight:600;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-left:8px}
+.where{font-size:12px;color:var(--muted);text-align:right}
+.where b{color:var(--ink);font-weight:600}
+h1{font-family:var(--display);font-weight:700;font-size:26px;margin:6px 0 8px;letter-spacing:.005em;text-wrap:balance}
+h2{font-family:var(--display);font-size:17px;font-weight:600;margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule);display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+h2 .k{font-family:var(--body);font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+p{margin:0 0 10px;max-width:62ch}
+.lede{font-size:17px}
+.muted{color:var(--muted)}
+.small{font-size:12.5px}
+.cardhead{font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--paper);background:var(--ink);padding:3px 8px;display:inline-block;margin:18px 0 4px}
+button,.btn{font:inherit;font-weight:600;border:1.5px solid var(--ink);background:transparent;color:var(--ink);border-radius:999px;padding:9px 16px;cursor:pointer}
+button.primary,.btn.primary{background:var(--ink);color:var(--paper)}
+button.ghost{border-color:var(--rule);color:var(--muted)}
+button:disabled{opacity:.45;cursor:default}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:12px 0}
+input[type=text]{font:inherit;width:100%;padding:11px 12px;border:1.5px solid var(--ink);border-radius:8px;background:transparent;color:var(--ink)}
+.note{background:var(--accent-soft);border-left:3px solid var(--accent);padding:8px 12px;font-size:13px;margin:10px 0}
+.pending{background:var(--flag-soft);border-left:3px solid var(--flag);padding:8px 12px;font-size:13px;margin:10px 0}
+.lesson{background:var(--miss-soft);border-left:3px solid var(--miss);padding:8px 12px;font-size:13px;margin:10px 0}
+/* trusted orgs */
+.orgs{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media (max-width:480px){.orgs{grid-template-columns:1fr}}
+.org{border:1px solid var(--rule);border-radius:10px;padding:10px 12px;display:grid;gap:6px;min-width:0}
+.org b{font-size:14px}
+.org .blurb{font-size:12px;color:var(--muted)}
+.tri{display:flex;gap:4px}
+.tri button{flex:1;padding:6px 4px;font-size:12px;border-radius:8px;border-color:var(--rule);color:var(--muted)}
+.tri button[aria-pressed=true].t{background:var(--accent);border-color:var(--accent);color:#fff}
+.tri button[aria-pressed=true].d{background:var(--miss);border-color:var(--miss);color:#fff}
+.tri button[aria-pressed=true].n{background:var(--rule);color:var(--ink)}
+/* sliders */
+.slider{margin:14px 0}
+.slider .q{font-weight:600;margin-bottom:4px}
+.slider .ends{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}
+.slider input{width:100%;accent-color:var(--accent)}
+/* guide items */
+.item{border-bottom:1px solid var(--rule);padding:10px 0}
+.item summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 12px;align-items:start}
+.item summary::-webkit-details-marker{display:none}
+.item .t{font-weight:600}
+.item .t small{font-weight:400;color:var(--muted);margin-left:6px}
+.item .lean{font-family:var(--display);font-weight:700;font-size:18px;white-space:nowrap;text-align:right}
+.lean.yes,.lean.pick{color:var(--accent)} .lean.no{color:var(--ink)} .lean.unsure{color:var(--flag)}
+.item .why{grid-column:1/-1;font-size:12.5px;color:var(--muted)}
+.item .flag{color:var(--flag);font-weight:600}
+.body{padding:8px 0 4px;font-size:14px}
+.sides{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:8px 0}
+@media (max-width:520px){.sides{grid-template-columns:1fr}}
+.side{border:1px solid var(--rule);border-radius:8px;padding:8px 10px;font-size:13px}
+.side b{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.choices{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 4px}
+.choices button{padding:7px 12px;font-size:13px}
+.choices button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.links{font-size:12.5px;display:flex;gap:14px;flex-wrap:wrap;margin-top:6px}
+.endorse{font-size:12px;color:var(--muted);margin-top:4px}
+.endorse b{color:var(--ink);font-weight:600}
+/* vote */
+.vrow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;align-items:center;border-bottom:1px solid var(--rule);padding:8px 0}
+.vrow .g{font-size:12px;color:var(--muted)}
+.vrow .dev{color:var(--flag);font-weight:600}
+.photos{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+.photos img{width:72px;height:96px;object-fit:cover;border:1px solid var(--rule);border-radius:4px}
+/* results */
+.tally{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:10px 0 14px}
+@media (max-width:560px){.tally{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.tally div{border:1px solid var(--rule);padding:8px 10px;min-width:0}
+.tally b{display:block;font-family:var(--display);font-size:22px;font-weight:700;line-height:1}
+.tally span{font-size:11px;color:var(--muted)}
+.rrow{display:grid;grid-template-columns:22px minmax(0,1fr);gap:8px;border-bottom:1px solid var(--rule);padding:7px 0;font-size:14px}
+.rrow .m{font-weight:700;text-align:center}
+.hit{color:var(--accent)} .miss{color:var(--miss)} .tbd{color:var(--flag)}
+.rrow .line{font-size:12.5px;color:var(--muted)}
+.rrow .line b{color:var(--ink);font-weight:600}
+/* tab bar */
+nav.tabs{position:fixed;left:0;right:0;bottom:0;background:var(--paper);border-top:1px solid var(--rule);display:flex;justify-content:space-around;padding:6px max(8px,env(safe-area-inset-left,0px)) max(8px,env(safe-area-inset-bottom,0px));z-index:6}
+nav.tabs a{font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);text-decoration:none;padding:6px 8px;border-radius:8px;text-align:center;min-width:56px}
+nav.tabs a[aria-current=page]{color:var(--accent);background:var(--accent-soft)}
+nav.tabs a .n{display:block;font-family:var(--display);font-size:16px;font-weight:700;letter-spacing:0;text-transform:none}
+footer.col{margin-top:24px;padding-top:8px;border-top:1px solid var(--rule);font-size:11px;color:var(--muted);line-height:1.4}
+@media print{
+  @page{size:letter;margin:.45in}
+  body{padding:0;font-size:11px;background:#fff;color:#000}
+  :root{--paper:#fff;--ink:#000;--muted:#444;--rule:#bbb;--accent:#000;--flag:#000;--miss:#000;--accent-soft:#eee;--flag-soft:#eee;--miss-soft:#eee}
+  header.top,nav.tabs,.row,button,.no-print{display:none!important}
+  .app{max-width:none}
+  .item{break-inside:avoid} .item summary{grid-template-columns:minmax(0,1fr) auto}
+  .item .body{display:none}
+  details[open] .body{display:none}
+  h1{font-size:18px} h2{font-size:13px} .item .lean{font-size:14px}
+}

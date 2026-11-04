@@ -1,0 +1,4 @@
+tools/sb/
+tools/tmp/
+*.pdf
+.DS_Store

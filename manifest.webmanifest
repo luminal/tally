@@ -1,0 +1,1 @@
+{"name":"Tally","short_name":"Tally","description":"Your ballot, in order: a guide from the groups you trust, a record of how you voted, and a scorecard when the count comes in.","start_url":"./index.html","display":"standalone","background_color":"#FBFAF6","theme_color":"#1F5A4E","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}

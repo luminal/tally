@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Tally</title>
+<meta name="description" content="Your ballot, in order: a guide from the groups you trust, a record of how you voted, and a scorecard when the count comes in.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#1F5A4E">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <header class="top"><p class="brand">Tally<small>San Diego County · Nov 3, 2026</small></p><div class="where" id="where"></div></header>
+  <main id="main"><p class="muted">Loading…</p></main>
+</div>
+<nav class="tabs" aria-label="Steps">
+  <a href="#start" data-step="start"><span class="n">1</span>Ballot</a>
+  <a href="#values" data-step="values"><span class="n">2</span>Trust</a>
+  <a href="#guide" data-step="guide"><span class="n">3</span>Guide</a>
+  <a href="#vote" data-step="vote"><span class="n">4</span>Vote</a>
+  <a href="#results" data-step="results"><span class="n">5</span>Results</a>
+</nav>
+<script src="app.js"></script>
+</body>
+</html>
