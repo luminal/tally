@@ -1,7 +1,7 @@
 import json, re, os, sys
 D = os.path.dirname(os.path.abspath(__file__)); OUT = sys.argv[1] if len(sys.argv) > 1 else D + '/out'; os.makedirs(OUT, exist_ok=True)
 contests = json.load(open(f"{D}/contests.json")); btc = json.load(open(f"{D}/bt_contests.json")); mtitles = json.load(open(f"{D}/measure_titles.json"))
-FIX = json.load(open("/Users/tristanbarnum/Claude/Projects/tally/data/election-2026-11-03-sd-bt321.json")); RES = json.load(open("/Users/tristanbarnum/Claude/Projects/tally/data/results-2026-11-04.json"))
+FIX = json.load(open(f"{D}/../data/election-2026-11-03-sd-bt321.json")); RES = json.load(open(f"{D}/../data/results-2026-11-04.json"))
 
 STATE_ORDER = ["GOVERNOR", "LIEUTENANT GOVERNOR", "SECRETARY OF STATE", "CONTROLLER", "TREASURER", "ATTORNEY GENERAL", "INSURANCE COMMISSIONER"]
 def section(t):
