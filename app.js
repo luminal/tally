@@ -102,14 +102,14 @@
         const geo = await geocode(a); let bt = null, council = null;
         if (geo.state === 'California' && /San Diego/.test(geo.county || '')) { bt = await ballotType(geo.x, geo.y); council = await councilDistrict(geo.x, geo.y); }
         else if (geo.state !== 'California') throw new Error('Tally only knows California right now. ' + esc(geo.matched) + ' is in ' + esc(geo.state) + '.');
-        S.geo = geo; S.bt = bt; S.geo.council = council; S.ballot = composeBallot(bt, geo); S.choices = {}; S.voted = {}; save(); $('#found').innerHTML = found(); vStartBind();
+        S.geo = geo; S.bt = bt; S.geo.council = council; S.geo.btMissing = !!(bt && !BT[bt]); S.ballot = composeBallot(bt, geo); S.choices = {}; S.voted = {}; save(); $('#found').innerHTML = found(); vStartBind();
       } catch (e) { $('#found').innerHTML = `<div class="lesson">${esc(e.message)}</div>`; }
     };
     vStartBind();
   }
   function found() {
     const n = allIds().length; const g = S.geo;
-    return `<div class="note"><b>Found it.</b> ${esc(g.matched)}. ${g.county ? esc(g.county) + '. ' : ''}Congressional ${esc(g.cd)}, Senate ${esc(String(+g.sd))}, Assembly ${esc(String(+g.ad))}${g.council ? ', San Diego council district ' + esc(String(g.council)) : ''}.${S.bt ? ` Ballot type <b>${S.bt}</b>: ${n} contests and measures.` : ` Statewide contests only (${n}).`} <a href="#values">Next: who do you trust? →</a></div>`;
+    return `<div class="note"><b>Found it.</b> ${esc(g.matched)}. ${g.county ? esc(g.county) + '. ' : ''}Congressional ${esc(g.cd)}, Senate ${esc(String(+g.sd))}, Assembly ${esc(String(+g.ad))}${g.council ? ', San Diego council district ' + esc(String(g.council)) : ''}.${S.bt && !g.btMissing ? ` Ballot type <b>${S.bt}</b>: ${n} contests and measures.` : S.bt ? ` Ballot type <b>${S.bt}</b> is not in Tally's data yet, so this is the statewide ballot only (${n}).` : ` Statewide contests only (${n}).`} <a href="#values">Next: who do you trust? →</a></div>`;
   }
   function vStartBind() { if ($('#reset')) $('#reset').onclick = () => { if (confirm('Clear your ballot, answers, and vote record from this device?')) { localStorage.removeItem(KEY); S = blank(); view(); } }; }
 
